@@ -1,0 +1,12 @@
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+body{
+    background-image: url("./images/background-3.png");
+}
+.hidden {
+    display: none;
+}
+#search-container {
+    display: none;
+}
